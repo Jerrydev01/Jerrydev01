@@ -12,16 +12,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/jerrydev01/portfolio/c03ffbcc5d26dc67a6a884b32cb4aae3cb3d7fdb/public/img/logo.svg" width="100" />
 </div>
 
-<h1 align="center">
+<h2 align="center">
  <a href="https://jerrydev01.github.io/portfolio/public/" target="_blank">jerrydev01.github.io</a>
-</h1>
-<p align="center">
-  The first iteration of my website <a href="https://zeus012345.github.io/portfolio/public/" target="_blank">jerrydev01.github.io</a> built with HTML,SCSS and JAVASCRIPT and hosted with <a href="https://www.github.com/" target="_blank">Github</a>
-</p>
-<p align="center">
-  Current iteration:
-  <a href="https://jerrydev01.github.io/portfolio/public/" target="_blank">v1</a>
-</p>
+</h2>
+
 <div align="center">
   <img alt="Logo" src="https://github.com/Jerrydev01/portfolio/blob/beta/public/img/github-img.png?raw=true" width="100%" />
 </div>
