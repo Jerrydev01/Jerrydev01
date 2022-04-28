@@ -5,7 +5,7 @@
 - 📫 How to reach me ... -->
 
 <h1 align="center">
- <a href="https://jerrydev01.github.io/portfolio/public/" target="_blank">JERRY FRANCIS</a>
+ <a href="https://jerrydev01.github.io/portfolio/public/" target="_blank">HI, JERRY FRANCIS</a>
 </h1>
 
 <div align="center">
