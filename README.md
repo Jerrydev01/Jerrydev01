@@ -20,7 +20,7 @@
   <img alt="Logo" src="https://github.com/Jerrydev01/portfolio/blob/beta/public/img/github-img.png?raw=true" width="100%" />
 </div>
 
-## About Project (please read!)
+## A Little About me (please read!)
 
 Hello, my name is Jerry Francis am an independent creative web developer with a passion for web programming. I build (and occasionally design) scalable and accessible websites.
 
