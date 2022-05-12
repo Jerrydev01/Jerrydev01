@@ -18,7 +18,8 @@ Web Developer and Designer
 </div>
 
 
-Hello, my name is Jerry Francis am an independent creative web developer with a passion for web programming. I build (and occasionally design) scalable and accessible websites. I am an Agricultural graduate and my interest in coding gave me a believe that with tech we can develop problem solving apps that will one day help us track and and achieve zero hunger.
+Hello, my name is Jerry Francis am an independent creative web developer with a passion for web programming. I build (and occasionally design) scalable and accessible websites.
+I am an Agricultural graduate and my interest in coding gave me a believe that with tech we can develop problem solving apps that will one day help us track and and achieve zero hunger.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Jerrydev V1](http://jerrydev01.github.io/portfolio/public/)
