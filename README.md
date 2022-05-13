@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/jerrydev01/portfolio/c03ffbcc5d26dc67a6a884b32cb4aae3cb3d7fdb/public/img/logo.svg" width="100" />
 </div>
 <div align="center">
-Hi 👋 My name is Jerry Francis
+  Hi 👋 My name is <h2>Jerry Francis</h2>
 
 
 Web Developer and Designer
