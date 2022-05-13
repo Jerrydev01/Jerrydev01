@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 Hi 👋 My name is Jerry Francis
-==============================
+
 
 Web Developer and Designer
 --------------------------
