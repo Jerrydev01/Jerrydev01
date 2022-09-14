@@ -23,7 +23,7 @@ I am an Agricultural graduate and my interest in coding gave me a believe that w
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Jerrydev V1](http://jerrydev01.github.io/portfolio/public/)
-* 🧠  I'm learning React, Redux and Nextjs
+* 🧠  I'm Currently learning Node Js and Express...
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Am an Agricultural Enthusiast
 
