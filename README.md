@@ -10,7 +10,7 @@ Software Developer and Designer
 </div>
 
 <h2 align="center">
- <a href="https://jerrydev01.github.io/portfolio/public/" target="_blank">jerrydev01.github.io</a>
+ <a href="https://jerrydev01.vercel.app/" target="_blank">Jerrydev Porfolio</a>
 </h2>
 
 <div align="center">
@@ -22,7 +22,7 @@ Hello, my name is Jerry Francis am an independent creative web developer with a 
 I am an Agricultural graduate and my interest in coding gave me a believe that with tech we can develop problem solving apps that will one day help us track and and achieve zero hunger.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Jerrydev V1](http://jerrydev01.github.io/portfolio/public/)
+* 🖥️  See my portfolio at [Jerrydev V1](https://jerrydev01.vercel.app/)
 * 🧠  I'm Currently learning Node Js and Express...
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Am an Agricultural Enthusiast
